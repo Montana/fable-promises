@@ -13,3 +13,5 @@
     <PackageReference Include="Thoth.Json" Version="4.0.0" />
   </ItemGroup>
 </Project>
+
+<!-- add promises via fable react -->
