@@ -7,7 +7,7 @@ This is a simple Fable app to test fetching a dog image from a remote server and
 * [dotnet SDK](https://www.microsoft.com/net/download/core) 2.1 or higher
 * [node.js](https://nodejs.org) with [npm](https://www.npmjs.com/)
 * An F# editor like Visual Studio, Visual Studio Code with [Ionide](http://ionide.io/) or [JetBrains Rider](https://www.jetbrains.com/rider/).
-* Personally I use Vim, with the plugin entitled `Plug 'DrTom/fsharp-vim'` - I think Vim is superior to most IDE's. It's all about opinion though.
+* Personally I use Vim, with the plugin entitled `Plug 'DrTom/fsharp-vim'` - I think Vim is superior to most IDE's. It's all about opinion though. You can grab it here: https://github.com/DrTom/fsharp-vim. You will have to `git submodule init` then `git submodule update`. 
 
 ![Vim](vim.png)
 
