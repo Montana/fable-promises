@@ -1,4 +1,4 @@
-#load "src/fable-publish-utils/PublishUtils.fs"
+#load "PublishUtils.fs"
 
 open PublishUtils
 open System
